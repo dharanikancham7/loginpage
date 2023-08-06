@@ -1,0 +1,53 @@
+.container{
+    background-image: linear-gradient(to right, rgb(0, 255, 191), rgb(204, 0, 255));
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+
+}
+.card{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    padding: 30px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+}
+.text-filed{
+    width: 400px;
+    margin:10px;
+
+}
+.lott{
+    height: 60px;
+    width: 60px;
+}
+.lottie-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.heading{
+    padding-bottom: 20px;
+}
+.but{
+    background-image: linear-gradient(to right,rgb(255, 0, 170),rgb(0, 0, 0));
+    border-radius: 10px;
+    height: 30px;
+}
+.buttonss{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+
+}
